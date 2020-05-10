@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.034cbe08.chunk.css",
-    "main.js": "/portfolio/static/js/main.4f1bdde4.chunk.js",
+    "main.css": "/portfolio/static/css/main.7e0bd42f.chunk.css",
+    "main.js": "/portfolio/static/js/main.1bbea317.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "static/js/2.8f92085e.chunk.js": "/portfolio/static/js/2.8f92085e.chunk.js",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d92e71b1458abc0f6e7ae9615e67ce12.js": "/portfolio/precache-manifest.d92e71b1458abc0f6e7ae9615e67ce12.js",
+    "precache-manifest.e8f16f03d0fb5e53c0d8163fbda5257c.js": "/portfolio/precache-manifest.e8f16f03d0fb5e53c0d8163fbda5257c.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.8f92085e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8f92085e.chunk.js.LICENSE.txt",
     "static/media/DeepLearningTipe.png": "/portfolio/static/media/DeepLearningTipe.27b6dae1.png",
@@ -15,7 +15,7 @@
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
     "static/js/2.8f92085e.chunk.js",
-    "static/css/main.034cbe08.chunk.css",
-    "static/js/main.4f1bdde4.chunk.js"
+    "static/css/main.7e0bd42f.chunk.css",
+    "static/js/main.1bbea317.chunk.js"
   ]
 }
