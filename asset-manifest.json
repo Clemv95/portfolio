@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fc262184.chunk.css",
+    "main.css": "/portfolio/static/css/main.7b14406f.chunk.css",
     "main.js": "/portfolio/static/js/main.7d5227b1.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "static/js/2.c80ef42d.chunk.js": "/portfolio/static/js/2.c80ef42d.chunk.js",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ea54bee56445327d12929c6778deb605.js": "/portfolio/precache-manifest.ea54bee56445327d12929c6778deb605.js",
+    "precache-manifest.74b86a12dd5a2b06907bffd2eade7089.js": "/portfolio/precache-manifest.74b86a12dd5a2b06907bffd2eade7089.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.c80ef42d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c80ef42d.chunk.js.LICENSE.txt",
     "static/media/DeepLearningTipe.png": "/portfolio/static/media/DeepLearningTipe.08e6989e.png",
     "static/media/anssi.png": "/portfolio/static/media/anssi.5f25243c.png",
     "static/media/avenir-next-lt-pro-demi.otf": "/portfolio/static/media/avenir-next-lt-pro-demi.553decd4.otf",
+    "static/media/App.css": "/portfolio/static/media/background.003ab0cb.jpg",
     "static/media/battleship.PNG": "/portfolio/static/media/battleship.add00b38.PNG",
     "static/media/eisti.png": "/portfolio/static/media/eisti.ccb1c358.png",
     "static/media/inria.png": "/portfolio/static/media/inria.12dac216.png",
@@ -19,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
     "static/js/2.c80ef42d.chunk.js",
-    "static/css/main.fc262184.chunk.css",
+    "static/css/main.7b14406f.chunk.css",
     "static/js/main.7d5227b1.chunk.js"
   ]
 }

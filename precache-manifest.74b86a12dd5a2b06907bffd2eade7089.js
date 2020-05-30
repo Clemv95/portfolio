@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8c444cff45fb357bf1eb44c7c641c32",
+    "revision": "f357dd7fc47cd696e9e402aff9374b5c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "3ae797bc1c44941acc70",
-    "url": "/portfolio/static/css/main.fc262184.chunk.css"
+    "revision": "fc2b95c9cbe35548f528",
+    "url": "/portfolio/static/css/main.7b14406f.chunk.css"
   },
   {
     "revision": "7f1b5bd1b8d652d0fb88",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.c80ef42d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ae797bc1c44941acc70",
+    "revision": "fc2b95c9cbe35548f528",
     "url": "/portfolio/static/js/main.7d5227b1.chunk.js"
   },
   {
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "553decd415b14f0f0662a4694c624846",
     "url": "/portfolio/static/media/avenir-next-lt-pro-demi.553decd4.otf"
+  },
+  {
+    "revision": "003ab0cb4f6638c3e021edaf3e5635dd",
+    "url": "/portfolio/static/media/background.003ab0cb.jpg"
   },
   {
     "revision": "add00b38a02d9956a05ea80494d84c66",
